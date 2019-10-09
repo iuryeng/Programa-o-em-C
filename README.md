@@ -1,2 +1,2 @@
 # Programação em C
-Exercícios em C da disciplina de programação em C da UFCG
+Exercícios em C da disciplina de programação da UFCG
